@@ -3,8 +3,7 @@
 - 🔭 HTML / CSS / JAVASCRIPT / REACT / NODEJS
 - 🌱 Estudando JavaScript
 <div align="center">
-  <a href="https://github.com/gmvandanezi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmvandanezi&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmvandanezi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
