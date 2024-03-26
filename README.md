@@ -1,11 +1,14 @@
 ### Olá, eu sou Guilherme Vandanezi
 
-- 🔭 HTML / CSS / JAVASCRIPT / REACT / NODEJS
-- 🌱 Estudando JavaScript
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmvandanezi&show_icons=true&theme=radical)
+- 🔭 HTML / CSS / JAVASCRIPT / REACT / NODEJS / TYPESCRIPT
+  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmvandanezi&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gmvandanezi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi" />
+</a>
+<a href="https://github.com/gmvandanezi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmvandanezi&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
