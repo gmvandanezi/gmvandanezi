@@ -4,10 +4,10 @@
   
 <div align="center">
   <a href="https://github.com/gmvandanezi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi&include_all_commit=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/gmvandanezi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmvandanezi&layout=compact&langs_count=8&card_width=280" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmvandanezi&layout=compact&langs_count=8&card_width=280&include_all_commit=true&theme=tokyonight" />
 </a>
 </div>
 <div style="display: inline_block"><br>
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/guilherme-vandanezi-ba1469207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h1>My Github contributions :</h1>
+<h1>Minhas Contribuições:</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmvandanezi/gmvandanezi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmvandanezi/gmvandanezi/output/github-contribution-grid-snake.svg">
