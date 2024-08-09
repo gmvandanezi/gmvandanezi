@@ -1,6 +1,8 @@
 ### Olá, eu sou Guilherme Vandanezi
 
-- 🔭 HTML / CSS / JAVASCRIPT / REACT / NODEJS / TYPESCRIPT
+### Fullstack developer
+
+- 🔭 HTML / CSS / JAVASCRIPT / REACT / NODEJS / TYPESCRIPT / JEST
   
 <div align="center">
   <a href="https://github.com/gmvandanezi/github-readme-stats">
@@ -33,3 +35,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmvandanezi/gmvandanezi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gmvandanezi/gmvandanezi/output/github-contribution-grid-snake.svg">
 </picture>
+
+Co-authored-by: guivandanezi <guiivandanezi@gmail.com>
