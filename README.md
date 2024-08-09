@@ -31,7 +31,7 @@
 ## ⌛ Wakatime Statistics
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gmvandanezi&layout=compact&theme=dark" alt="Wakatime stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gmvandanezi&layout=compact&theme=dark" alt="Wakatime stats"/>
   </a>
 </div>
 
