@@ -3,15 +3,9 @@
 ### Fullstack developer
 
 - 🔭 HTML / CSS / JAVASCRIPT / REACT / NODEJS / TYPESCRIPT / JEST
+
+  ##
   
-<div align="center">
-  <a href="https://github.com/gmvandanezi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi&include_all_commit=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/gmvandanezi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmvandanezi&layout=compact&langs_count=8&card_width=280&include_all_commit=true&theme=tokyonight" />
-</a>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,7 +17,6 @@
   <img align="center" alt="Chakra-UI" height="30" width="40" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg">
 </div>
   
-  ##
 
   ## 📊 GitHub Statistics
 <div align="center">
