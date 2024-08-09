@@ -2,7 +2,7 @@
 
 ### Fullstack developer
 
-- 🔭 HTML / CSS / JAVASCRIPT / REACT / NODEJS / TYPESCRIPT / JEST
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmvandanezi)](https://github.com/anuraghazra/github-readme-stats)
 
   ##
   
