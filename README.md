@@ -19,6 +19,7 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gui-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg">
 </div>
   
   ##
@@ -34,5 +35,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmvandanezi/gmvandanezi/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gmvandanezi/gmvandanezi/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-Co-authored-by: guivandanezi <guiivandanezi@gmail.com>
