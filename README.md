@@ -24,6 +24,23 @@
 </div>
   
   ##
+
+  ## 📊 GitHub Statistics
+<div align="center">
+  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi&include_all_commits=true&show=prs_merged_percentage&icon_color=fff&show_icons=true&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>
+  <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmvandanezi&icon_color=fff&layout=donut&langs_count=20&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>  
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gmvandanezi&column=4&row=1&theme=onedark" style="max-width: 100%;"/>
+</div>
+
+</div>
+
+## ⌛ Wakatime Statistics
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gmvandanezi&layout=compact&theme=dark" alt="Wakatime stats"/>
+  </a>
+</div>
  
 <div> 
   <a href="https://instagram.com/guivandanezi.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
