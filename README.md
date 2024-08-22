@@ -23,7 +23,7 @@
   <img height="206em" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi&include_all_commits=true&show=prs_merged_percentage&icon_color=fff&show_icons=true&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>
   <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmvandanezi&icon_color=fff&layout=donut&langs_count=20&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>  
   <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gmvandanezi&column=4&row=1&theme=onedark" style="max-width: 100%;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gmvandanezi&column=4&row=1&include_all_commits=true&theme=onedark" style="max-width: 100%;"/>
 </div>
 
 </div>
