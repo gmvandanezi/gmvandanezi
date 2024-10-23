@@ -45,6 +45,12 @@
 
 ##
 
+![](https://github-readme-stats.vercel.app/api?username=lohnogs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lohnogs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohnogs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+
+##
+
 <h1>Minhas Contribuições:</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmvandanezi/gmvandanezi/output/github-contribution-grid-snake-dark.svg">
