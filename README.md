@@ -2,8 +2,6 @@
 
 ### Fullstack developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmvandanezi)](https://github.com/anuraghazra/github-readme-stats)
-
   ##
   
 <div style="display: inline_block"><br>
@@ -16,8 +14,9 @@
   <img align="center" alt="Gui-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Chakra-UI" height="30" width="40" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg">
 </div>
-  
 
+##
+  
   ## 📊 GitHub Statistics
 <div align="center">
   <img height="206em" src="https://github-readme-stats.vercel.app/api?username=gmvandanezi&include_all_commits=true&show=prs_merged_percentage&icon_color=fff&show_icons=true&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>
@@ -26,28 +25,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gmvandanezi&column=4&row=1&include_all_commits=true&theme=onedark" style="max-width: 100%;"/>
 </div>
 
-</div>
+##
 
 ## ⌛ Wakatime Statistics
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gmvandanezi&layout=compact&theme=dark" alt="Wakatime stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gmvandanezi&layout=compact&theme=dark" alt="Wakatime stats"/>
   </a>
 </div>
 
 ##
  
 <div> 
-  <a href="https://instagram.com/guivandanezi.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermevandanezi@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-vandanezi-ba1469207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-
-![](https://github-readme-stats.vercel.app/api?username=lohnogs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lohnogs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohnogs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 ##
 
